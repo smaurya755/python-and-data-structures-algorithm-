@@ -58,6 +58,9 @@ def binary_recursive(A, key, l, r):
 A = [3, 12, 56, 7, 23]
 print(binary_recursive(A, 23, 0, 4 ))
 print(int(2.5))
+#eval function: converts a data type in the form of string into its original data type
+x = input()
+y = input()
 
 
 
